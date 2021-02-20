@@ -117,6 +117,7 @@
   select {
     color: #ff6f47;
     font-family: "Poppins", sans-serif;
+    font-size: 1rem;
     cursor: pointer;
     width: 12rem;
   }
@@ -131,6 +132,10 @@
     cursor: pointer;
     pointer-events: none;
   }
+
+  
+
+
   /* Transition */
   /*
   .select:hover::after {
